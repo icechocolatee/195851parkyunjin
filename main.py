@@ -23,5 +23,3 @@ if symbol == 3:
 if symbol == 4:
     print(" ## 계산기 : ")
     print(str(num1) + " / " + str(num2) + " = " + str(num1 / num2))
-else:
-    print("정확한 사칙연산 선택이 아닙니다. 프로그램을 종료합니다.")
